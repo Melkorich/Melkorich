@@ -14,7 +14,7 @@ I can build websites of different types: from landing and business pages to corp
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
-![Avacode](https://img.shields.io/badge/-Avacode-333?style=for-the-badge&logo=Avacode)
+![Avocode](https://img.shields.io/badge/-Avocode-333?style=for-the-badge&logo=Avocode)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 
 
