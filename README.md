@@ -17,7 +17,13 @@ I can build websites of different types: from landing and business pages to corp
 ![Avacode](https://img.shields.io/badge/-Avacode-333?style=for-the-badge&logo=Avacode)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 
-i also used to work in Blender
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkorich&theme=monokai&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkorich&layout=compact)](https://github.com/melkorich/github-readme-stats)
+
+###Plans for 2022
+> The plan for this year is to study JavaScript intensively and take courses on WordPress, together with keep working on what i already know and improving it.
 
 
 ### My contacts
