@@ -28,7 +28,8 @@ I can build websites of different types: from landing and business pages to corp
 
 ### My contacts
 
-1. [Telegram](https://t.me/keshalavrov) 
-2. [GitHub](https://github.com/Melkorich)
-3. [Facebook](https://www.facebook.com/kirill.lavrov.351)
-4. [Instagram](https://www.instagram.com/keshalavrov/)
+1. Gmail: Kirill.lavrov92@gmail.com
+2. [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2.svg?logo=telegram&logoColor=white)](https://t.me/keshalavrov) 
+3. [![GitHub](https://img.shields.io/badge/Github-333.svg?logo=github&logoColor=white)](https://github.com/Melkorich)
+4. [![Facebook](https://img.shields.io/badge/Facebook-4267B2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kirill.lavrov.351)
+5. [![Instagram](https://img.shields.io/badge/Instagram-E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/keshalavrov/)
