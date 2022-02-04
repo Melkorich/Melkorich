@@ -7,6 +7,7 @@ I can build websites of different types: from landing and business pages to corp
 ### My stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![PUG](https://img.shields.io/badge/-PUG-333?style=for-the-badge&logo=pug)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
