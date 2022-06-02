@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Kirill Lavrov** and i am html/web developer since 2021.
+I am **Kirill Lavrov** and i am html developer since 2021.
 
 I can build websites of different types: from landing and business pages to corporate/retail/online stores which consist of many pages.
 
