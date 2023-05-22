@@ -4,7 +4,9 @@ I am **Kirill Lavrov** and i am html developer since 2021.
 
 I can build websites of different types: from landing and business pages to corporate/retail/online stores which consist of many pages.
 
-my webpage https://k-lavrov.ru/
+my webpage k-lavrov.ru
+
+rus only: k-lavrov.com
 
 ### My stack
 
